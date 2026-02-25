@@ -5,6 +5,11 @@ The project focuses on **electrocardiogram (ECG) signal processing** and
 **audio/sound signal analysis**, applying fundamental Digital Signal
 Processing (DSP) techniques.
 
+## Technologies Used
+-   Python 3
+-   Jupyter Notebook / JupyterLab
+-   Python libraries: NumPy, SciPy, Pandas, Matplotlib, Seaborn
+
 ## Project Overview
 This project demonstrates practical applications of digital signal
 processing, including:
@@ -17,11 +22,6 @@ processing, including:
 
 The goal is to understand how raw signals can be transformed into
 meaningful information using computational methods.
-
-## Technologies Used
--   Python 3
--   Jupyter Notebook / JupyterLab
--   Python libraries: NumPy, SciPy, Pandas, Matplotlib, Seaborn
 
 ## ECG Signal Processing
 The ECG notebook includes:
