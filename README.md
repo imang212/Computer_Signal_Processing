@@ -1,5 +1,4 @@
 # Computer Signal Processing
-## Processing ECG and Audio Signals in Python
 This repository contains signal processing analyses implemented in
 **Python using Jupyter Notebook**.
 The project focuses on **electrocardiogram (ECG) signal processing** and
