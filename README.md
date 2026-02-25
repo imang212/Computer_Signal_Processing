@@ -22,18 +22,7 @@ meaningful information using computational methods.
 ## Technologies Used
 -   Python 3
 -   Jupyter Notebook / JupyterLab
--   NumPy
--   SciPy
--   Pandas
--   Matplotlib
--   Seaborn
-
-## Repository Structure
-Computer_Signal_Processing/ ├── semnarni_prace_1.ipynb \# EKG signal
-processing ├── semnarni_prace_2.ipynb \# Audio signal processing ├──
-data/ \# Input datasets (EKG / audio files) ├── requirements.txt \#
-Python dependencies (if included) ├── README.md \# Project documentation
-├── LICENSE \# MIT License
+-   Python libraries: NumPy, SciPy, Pandas, Matplotlib, Seaborn
 
 ## ECG Signal Processing
 The ECG notebook includes:
@@ -54,22 +43,3 @@ The audio notebook demonstrates:
 -   Fourier Transform (FFT)
 -   Frequency spectrum analysis
 -   Time-frequency signal analysis
-
-## How to Run the Project
-1.  Clone the repository:
-
-git clone https://github.com/imang212/Computer_Signal_Processing.git
-cd Computer_Signal_Processing
-3.  Install required libraries:
-pip install numpy scipy pandas matplotlib seaborn jupyter
-4.  Start Jupyter:
-jupyter lab
-5.  Open the notebooks and run the cells.
-
-## Learning Objectives
-By working with this repository, you will:
--   Understand core DSP concepts
--   Work with real-world biomedical and audio data
--   Apply filtering and spectral analysis
--   Visualize signals effectively
--   Gain hands-on experience with scientific Python tools
